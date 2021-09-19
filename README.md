@@ -1,2 +1,2 @@
-# instagram-dio
-Desenvolvi este projeto em HTML5 com a Digital Innovation One.
+# Projeto
+- https://dido-code.github.io/instagram-dio/
